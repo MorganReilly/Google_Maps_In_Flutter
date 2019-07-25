@@ -10,6 +10,10 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="google_maps_in_flutter"
         android:icon="@mipmap/ic_launcher">
+
+        <!-- Adding API Key for Google Maps -->
+        <meta-data android:name="com.google.android.geo.API_KEY"
+                   android:value="AIzaSyAfKAjPggknQQ8leYOtmNY0x_Zk9skRoRM"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

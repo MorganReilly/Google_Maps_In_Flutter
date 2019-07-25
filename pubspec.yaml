@@ -24,7 +24,16 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
 
+  # Adding Google Maps as a dependency
+  google_maps_flutter: ^0.5.11
+
+  http: ^0.12.0+1
+  json_serializable: ^2.0.2
+
 dev_dependencies:
+  pedantic: ^1.4.0
+  build_runner: ^1.2.7
+
   flutter_test:
     sdk: flutter
 
