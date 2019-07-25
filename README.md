@@ -1,6 +1,6 @@
-# google_maps_in_flutter
+# Google Maps in Flutter
 
-A new Flutter project.
+This project uses Google Maps, which displays all locations for Googles offices and a button which when pressed points you to a nice pub in Dublin.
 
 ## Getting Started
 
